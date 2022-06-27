@@ -1,0 +1,8 @@
+#canvas{
+    position: absolute;
+    z-index: 2;
+}
+#video{
+    position: absolute;
+    z-index: 1;
+}
